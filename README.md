@@ -31,11 +31,3 @@ printf("%s\n", str);
 free(str);
 
 ```
-
-## 🏆 Learning Outcomes
-
-✅ Deep understanding of C memory management
-
-✅ Hands-on practice with pointers & strings
-
-✅ Better debugging skills
